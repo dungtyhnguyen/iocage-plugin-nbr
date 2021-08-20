@@ -1,8 +1,8 @@
 #!/bin/sh
 
 PRODUCT='NAKIVO Backup & Replication'
-URL="http://192.168.1.24:280/10.4/NBRv10.4.0.57484.sh"
-SHA256="cf3604ccf7dd485081f9064eaabbc30e947f9a1e5916ae9380908f32cb4c6a22"
+URL="http://192.168.1.24:280/freeNAS/NBRv10.5.0.57704.sh"
+SHA256="1701c93aef3490b0bae404096e48de5fdaa8272b4e8fcf46b69f4f41db2e5aec"
 
 PRODUCT_ROOT="/usr/local/nakivo"
 INSTALL="inst.sh"
